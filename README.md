@@ -1,5 +1,8 @@
 # ebpf-ssl-interceptor
 ebpf-ssl-interceptor
+# ebpf playground setup
+
+https://medium.com/@kalaiarasanbalaraman/setting-up-ebpf-in-macos-a-beginners-guide-42c59182b41f
 
 ## client
 
